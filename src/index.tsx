@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import App from "./App";
 import { I18nProvider } from "@lingui/react";
 
-import enCatalog from "./locales/en/messages.js";
+import enCatalog from "../locale/en/messages.js";
 
 const catalogs: Record<string, any> = {
     en: enCatalog
