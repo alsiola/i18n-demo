@@ -16,7 +16,7 @@
     "scripts": {
         "prebuild": "yarn extract && git diff --exit-code",
         "start": "react-scripts start",
-        "build": "react-scripts build && yarn compile",
+        "build": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject",
         "add-locale": "lingui add-locale",
