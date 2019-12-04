@@ -1,0 +1,26 @@
+{
+  "Hello my name is Alex!": {
+    "origin": [
+      [
+        "src/App.tsx",
+        6
+      ]
+    ]
+  },
+  "Hello my name is {name}": {
+    "origin": [
+      [
+        "src/App.tsx",
+        8
+      ]
+    ]
+  },
+  "{count, plural, =0 {Boo, no apples} one {I have # apple} other {I have # apples}}": {
+    "origin": [
+      [
+        "src/App.tsx",
+        10
+      ]
+    ]
+  }
+}
