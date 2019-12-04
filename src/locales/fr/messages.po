@@ -15,11 +15,11 @@ msgstr ""
 
 #: src/App.tsx:6
 msgid "Hello my name is Alex!"
-msgstr ""
+msgstr "Bonjour, je m'appelle Alex!"
 
 #: src/App.tsx:8
 msgid "Hello my name is {name}"
-msgstr ""
+msgstr "Bonjour, je m'appelle {name}!"
 
 #: src/App.tsx:10
 msgid "{count, plural, =0 {Boo, no apples} one {I have # apple} other {I have # apples}}"
